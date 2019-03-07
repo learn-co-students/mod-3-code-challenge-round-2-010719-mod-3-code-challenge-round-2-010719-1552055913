@@ -22,7 +22,10 @@ By clicking one particular message on the master list, the application will show
 
 -- As a user, when I click a beer name, the application should reveal more information about that particular beer.
 
--- As a user, when looking at the details of a beer, I can edit the current description of a beer. Clicking the 'Save' button will save any changes added to the description in the database
+-- As a user, when looking at the details of a beer, I can edit the current name and description of a beer. Clicking the 'Edit Name' button or 'Edit Description' button will save any changes added to the respective name or description in the database
+
+
+*Note: This version of the gif does not include the Edit Name functionality/button*
 
 ![beer gif](code-challenge-mod-iii-round-ii.gif)
 
@@ -81,25 +84,34 @@ The beer details should be added to this div
 The html should look something like:
 
 ```html
-<h1>Beer Name</h1>
+<textarea>Beer Name</textarea>
 <img src="<add beer img url here>">
 <h3>Beer Tagline</h3>
 <textarea>Beer Description</textarea>
-<button id="edit-beer" class="btn btn-info">
-  Save
+<button id="edit-beer-description" class="btn btn-info">
+  Edit Description
+</button>
+<button id="edit-beer-name" class="btn btn-info">
+  Edit Name
 </button>
 ```
 
 ### Step 3 - Edit Beer Details
 
-When looking at the details of a beer, I can edit the current description of a beer. Clicking the 'Save' button will save any changes added to the description in the database. The edited beer should also update the DOM. For example, if I update the details of "Beer A" then click on another beer, when I go back to "Beer A", the description should be updated.
+When looking at the details of a beer, I can edit the current name AND description of a beer. Clicking the 'Edit Name' button will save any changes added to the name in the database. Similarly, clicking the 'Edit Description' button will save any changes added to the description in the database. The edited beer should also update the DOM. For example, if I update the description of "Beer A" then click on another beer, when I go back to "Beer A", the description should be updated. When the name is updated, that should be reflected on the DOM as well.
 
 To update a beer you'll need to make a PATCH request
 * **Route:** PATCH `http://localhost:3000/beers/:id`
-* **Body:**
+* **Body for a name edit:**
+```js
+  {name: "your new name"}
+```
+
+* **Body for a description edit:**
 ```js
   {description: "your new description"}
 ```
+
 * **Headers:**
 ```js
   {
