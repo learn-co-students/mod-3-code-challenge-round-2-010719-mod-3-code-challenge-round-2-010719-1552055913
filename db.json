@@ -17,7 +17,7 @@
     },
     {
       "id": 3,
-      "name": "Berliner Weisse With Yuzu - B-Sides",
+      "name": "cool new info",
       "tagline": "Japanese Citrus Berliner Weisse.",
       "first_brewed": "11/2015",
       "description": "Japanese citrus fruit intensifies the sour nature of this German classic.",
@@ -47,10 +47,10 @@
     },
     {
       "id": 5,
-      "name": "Avery Brown Dredge",
+      "name": "OLD Name XOXO",
       "tagline": "Bloggers' Imperial Pilsner.",
       "first_brewed": "02/2011",
-      "description": "wow so good!",
+      "description": "WOW it's updating automatically",
       "image_url": "https://images.punkapi.com/v2/5.png",
       "food_pairing": [
         "Vietnamese squid salad",
@@ -62,10 +62,10 @@
     },
     {
       "id": 6,
-      "name": "Electric India",
+      "name": "Eccentric India XOXO",
       "tagline": "Vibrant Hoppy Saison.",
       "first_brewed": "05/2013",
-      "description": "wow so good!",
+      "description": "such an eccentric description",
       "image_url": "https://images.punkapi.com/v2/6.png",
       "food_pairing": [
         "Mussels with a garlic and herb sauce",
@@ -92,7 +92,7 @@
     },
     {
       "id": 8,
-      "name": "AB:07",
+      "name": "AB:07 XOXO",
       "tagline": "Whisky Cask-Aged Scotch Ale.",
       "first_brewed": "03/2010",
       "description": "Whisky cask-aged imperial scotch ale. Beer perfect for when the rain is coming sideways. Liquorice, plum and raisin temper the warming alcohol, producing a beer capable of holding back the Scottish chill.",
@@ -107,7 +107,7 @@
     },
     {
       "id": 9,
-      "name": "Bramling X",
+      "name": "Bramling XOXO",
       "tagline": "Single Hop IPA Series - 2011.",
       "first_brewed": "01/2011",
       "description": "Good old Bramling Cross is elegant, refined, assured, (boring) and understated. Understated that is unless you hop the living daylights out of a beer with it. This is Bramling Cross re-invented and re-imagined, and shows just what can be done with English hops if you use enough of them. Poor Bramling Cross normally gets lost in a woeful stream of conformist brown ales made by sleepy cask ale brewers. But not anymore. This beer shows that British hops do have some soul, and is a fruity riot of blackberries, pears, and plums. Reminds me of the bramble, apple and ginger jam my grandmother used to make.",
@@ -137,7 +137,7 @@
     },
     {
       "id": 11,
-      "name": "Arcade Nation",
+      "name": "Arcade Nation XOXO",
       "tagline": "Seasonal Black IPA.",
       "first_brewed": "12/2015",
       "description": "Running the knife-edge between an India Pale Ale and a Stout, this particular style is one we truly love. Black IPAs are a great showcase for the skill of our brew team, balancing so many complex and twisting flavours in the same moment. The citrus, mango and pine from the hops – three of our all-time favourites – play off against the roasty dryness from the malt bill at each and every turn.",
@@ -167,7 +167,7 @@
     },
     {
       "id": 13,
-      "name": "Alpha Dog",
+      "name": "Alpha-beta Dog",
       "tagline": "Existential Red Ale.",
       "first_brewed": "02/2010",
       "description": "A fusion of caramel malt flavours and punchy New Zealand hops. A session beer you can get your teeth into.",
@@ -228,7 +228,7 @@
     },
     {
       "id": 17,
-      "name": "Russian Doll – India Pale Ale",
+      "name": "Russian Doll – India Pale Ale XOXO",
       "tagline": "Nesting Hop Bomb.",
       "first_brewed": "08/2014",
       "description": "The levels of hops vary throughout the range. We love hops, so all four beers are big, bitter badasses, but by tweaking the amount of each hop used later in the boil and during dry- hopping, we can balance the malty backbone with some unexpected flavours. Simcoe is used in the whirlpool for all four beers, and yet still lends different characters to each",
@@ -291,7 +291,7 @@
       "name": "Devine Rebel (w/ Mikkeller)",
       "tagline": "Oak-aged Barley Wine.",
       "first_brewed": "12/2008",
-      "description": "Two of Europe's most experimental, boundary-pushing brewers, BrewDog and Mikkeller, combined forces to produce a rebellious beer that combined their respective talents and brewing skills. The 12.5% Barley Wine fermented well, and the champagne yeast drew it ever closer to 12.5%. The beer was brewed with a single hop variety and was going to be partially aged in oak casks.",
+      "description": "new dscritipns",
       "image_url": "https://images.punkapi.com/v2/22.png",
       "food_pairing": [
         "Stilton on gingerbread biscuits",
@@ -303,10 +303,10 @@
     },
     {
       "id": 22,
-      "name": "Storm",
+      "name": "Storm XOXOXOXOX",
       "tagline": "Islay Whisky Aged IPA.",
       "first_brewed": "12/2007",
-      "description": "Dark and powerful Islay magic infuses this tropical sensation of an IPA. Using the original Punk IPA as a base, we boosted the ABV to 8% giving it some extra backbone to stand up to the peated smoke imported directly from Islay.",
+      "description": "IT'S WORKING XOXO",
       "image_url": "https://images.punkapi.com/v2/23.png",
       "food_pairing": [
         "Oysters",
@@ -318,10 +318,10 @@
     },
     {
       "id": 23,
-      "name": "The End Of History",
+      "name": "The End of History: hi zach",
       "tagline": "The World's Strongest Beer.",
       "first_brewed": "06/2011",
-      "description": "The End of History: The name derives from the famous work of philosopher Francis Fukuyama, this is to beer what democracy is to history. Complexity defined. Floral, grapefruit, caramel and cloves are intensified by boozy heat.",
+      "description": "The End of History: hey!",
       "image_url": "https://images.punkapi.com/v2/24.png",
       "food_pairing": [
         "Roasted wood pigeon with black pudding",
@@ -333,7 +333,7 @@
     },
     {
       "id": 24,
-      "name": "Bad Pixie",
+      "name": "Bad Pixie XOXO",
       "tagline": "Spiced Wheat Beer.",
       "first_brewed": "10/2008",
       "description": "2008 Prototype beer, a 4.7% wheat ale with crushed juniper berries and citrus peel.",
